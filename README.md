@@ -1,0 +1,1 @@
+This example demonstrates a common error in Rust related to mutable borrows.  Rust's ownership system prevents data races by disallowing multiple mutable borrows of the same variable.  This repository shows the error and a solution to it.
